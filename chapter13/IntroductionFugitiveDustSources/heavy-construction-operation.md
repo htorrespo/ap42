@@ -64,13 +64,13 @@ III. General Construction
     - Unpaved road emission factor in Section 13.2.2, or paved road emission factor in Section 13.2.1
  2.  Portable plants
  
-  a.  Crushing
+   a.  Crushing
       - Factors for similar material/operations in Section 11.19.2
  
-  b.  Screening
+   b.  Screening
       - Factors for similar material/operations in Section 11.19.2
 
-  c.  Material transfers
+   c.  Material transfers
       - Material handling emission factor equation in Section 13.2.4
  
  3. Other operations
