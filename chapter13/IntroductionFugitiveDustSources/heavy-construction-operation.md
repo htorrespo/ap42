@@ -65,10 +65,10 @@ III. General Construction
  2.  Portable plants
  
    a.  Crushing
-      - Factors for similar material/operations in Section 11.19.2
+       - Factors for similar material/operations in Section 11.19.2
  
    b.  Screening
-      - Factors for similar material/operations in Section 11.19.2
+       - Factors for similar material/operations in Section 11.19.2
 
    c.  Material transfers
       - Material handling emission factor equation in Section 13.2.4
