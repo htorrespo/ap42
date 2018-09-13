@@ -63,6 +63,7 @@ III. General Construction
  1.  Vehicular traffic
     - Unpaved road emission factor in Section 13.2.2, or paved road emission factor in Section 13.2.1
  2.  Portable plants
+ 
   a.  Crushing
       - Factors for similar material/operations in Section 11.19.2
  
@@ -71,6 +72,7 @@ III. General Construction
 
   c.  Material transfers
       - Material handling emission factor equation in Section 13.2.4
+ 
  3. Other operations
    - Factors for similar material/operations in the Mineral Products Industry, Chapter 11 of this document
 
