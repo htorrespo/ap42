@@ -20,15 +20,20 @@ Because of the relatively short-term nature of construction activities, some con
 Table 13.2.3-2 displays each of the preferred control measures, by dust source. Because most of the controls listed in the table modify independent variables in the emission factor models, the effectiveness can be calculated by comparing controlled and uncontrolled emission estimates from Table 13.2.3-1. Additional guidance on controls is provided in the AP-42 sections from which the recommended emission factors were taken, as well as in other documents, such as Reference 4.
 
 https://www3.epa.gov/ttn/chief/ap42/ch13/final/c13s02-3.pdf
+
 Construction Phase
 
 I. Demolition and debris removal
  1. Demolition of buildings or other (natural) obstacles such as trees, boulders, etc.
+ 
    a. Mechanical dismemberment ("headache ball") of existing structures
+   
    b. Implosion of existing structures
+   
    c. Drilling and blasting of soil
       - Drilling factor in Table 11.9-4
       - Blasting factor NA
+      
    d. General land clearing
       - Dozer equation (overburden) in Tables 11.9-1 and 11.9-2
 		   
