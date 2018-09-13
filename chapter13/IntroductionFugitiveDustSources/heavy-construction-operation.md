@@ -24,7 +24,7 @@ https://www3.epa.gov/ttn/chief/ap42/ch13/final/c13s02-3.pdf
 Construction Phase
 
 I. Demolition and debris removal
-  1. Demolition of buildings or other (natural) obstacles such as trees, boulders, etc.	
+ 1. Demolition of buildings or other (natural) obstacles such as trees, boulders, etc.	
   
    a. Mechanical dismemberment ("headache ball") of existing structures			
    b. Implosion of existing structures			
