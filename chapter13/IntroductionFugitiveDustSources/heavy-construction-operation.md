@@ -75,4 +75,3 @@ III. General Construction
  
  3. Other operations
   - Factors for similar material/operations in the Mineral Products Industry, Chapter 11 of this document
-
