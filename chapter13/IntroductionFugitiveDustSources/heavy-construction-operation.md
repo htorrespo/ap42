@@ -20,89 +20,57 @@ Because of the relatively short-term nature of construction activities, some con
 Table 13.2.3-2 displays each of the preferred control measures, by dust source. Because most of the controls listed in the table modify independent variables in the emission factor models, the effectiveness can be calculated by comparing controlled and uncontrolled emission estimates from Table 13.2.3-1. Additional guidance on controls is provided in the AP-42 sections from which the recommended emission factors were taken, as well as in other documents, such as Reference 4.
 
 https://www3.epa.gov/ttn/chief/ap42/ch13/final/c13s02-3.pdf
-
 Construction Phase
 
 I. Demolition and debris removal
  1. Demolition of buildings or other (natural) obstacles such as trees, boulders, etc.
- 
-   a. Mechanical dismemberment ("headache ball") of existing structures		
+   a. Mechanical dismemberment ("headache ball") of existing structures
    b. Implosion of existing structures
    c. Drilling and blasting of soil
-   - Drilling factor in Table 11.9-4
+      - Drilling factor in Table 11.9-4
+      - Blasting factor NA
+   d. General land clearing
+      - Dozer equation (overburden) in Tables 11.9-1 and 11.9-2
 		   
-		   - Blasting factor NA
-		   
-		d. General land clearing
-		
-		   - Dozer equation (overburden) in Tables 11.9-1 and 11.9-2
-		   
-	2.  Loading of debris into trucks
-	
-	   - Material handling emission factor equation in Section 13.2.4
-	   
-	3. Truck transport of debris
-	
-	   - Unpaved road emission factor in Section 13.2.2, or paved road emission factor in Section 13.2.1
-	   
-	4. Truck unloading of debris
-	
-	   - Material handling emission factor equation in Section 13.2.4
-	   
+ 2.  Loading of debris into trucks
+      - Material handling emission factor equation in Section 13.2.4
+ 3. Truck transport of debris
+    - Unpaved road emission factor in Section 13.2.2, or paved road emission factor in Section 13.2.1
+ 4. Truck unloading of debris
+    - Material handling emission factor equation in Section 13.2.4
+
+
 II. Site Preparation (earth moving)
+ 1. Bulldozing
+    - Dozer equation (overburden) in Tables 11.9-1 and 11.9-2
+ 2. Scrapers unloading topsoil
+    - Scraper unloading factor in Table 11.9-4
+ 3. Scrapers in travel
+    - Scraper (travel mode) expression in Tables 11.9-1 and 11.9-2
+ 4. Scrapers removing topsoil
+    - 5.7  kg/vehicle kilometer traveled (VKT) (20.2 lb/vehicle mile traveled [VMT])
+ 5. Loading of excavated material into trucks
+    - Material handling emission factor equation in Section 13.2.4
+ 6. Truck dumping of fill material, road base, or other materials
+   - Material handling emission factor equation in Section 13.2.4
+ 7. Compacting
+    - Dozer equation in Tables 11.9-1 and 11.9-2
+ 8. Motor grading
+    - Grading equation in Tables 11.9-1 and 11.9-2
 
-	1. Bulldozing
-	
-	   - Dozer equation (overburden) in Tables 11.9-1 and 11.9-2
-	   
-	2. Scrapers unloading topsoil
-	
-	   - Scraper unloading factor in Table 11.9-4
-	   
-	3. Scrapers in travel
-	
-	   - Scraper (travel mode) expression in Tables 11.9-1 and 11.9-2
-	   
-	4. Scrapers removing topsoil
-	
-	   - 5.7  kg/vehicle kilometer traveled (VKT) (20.2 lb/vehicle mile traveled [VMT])
-	   
-	5. Loading of excavated material into trucks
-	
-	   - Material handling emission factor equation in Section 13.2.4
-	   
-	6. Truck dumping of fill material, road base, or other materials
-	
-	   - Material handling emission factor equation in Section 13.2.4
-	   
-	7. Compacting
-	
-	   - Dozer equation in Tables 11.9-1 and 11.9-2
-	   
-	8. Motor grading
-	
-	   - Grading equation in Tables 11.9-1 and 11.9-2
-	   
+   
 III. General Construction
+ 1.  Vehicular traffic
+    - Unpaved road emission factor in Section 13.2.2, or paved road emission factor in Section 13.2.1
+ 2.  Portable plants
+  a.  Crushing
+      - Factors for similar material/operations in Section 11.19.2
+ 
+  b.  Screening
+      - Factors for similar material/operations in Section 11.19.2
 
-	1.  Vehicular traffic
-	
-	   - Unpaved road emission factor in Section 13.2.2, or paved road emission factor in Section 13.2.1
-	   
-	2.  Portable plants
-	
-		a.  Crushing
-		
-		   - Factors for similar material/operations in Section 11.19.2
-		   
-	b.  Screening
-	
-	   - Factors for similar material/operations in Section 11.19.2
-	   
-	c.  Material transfers
-	
-	   - Material handling emission factor equation in Section 13.2.4
-	   
-	3. Other operations
-	
-	   - Factors for similar material/operations in the Mineral Products Industry, Chapter 11 of this document
+  c.  Material transfers
+      - Material handling emission factor equation in Section 13.2.4
+ 3. Other operations
+   - Factors for similar material/operations in the Mineral Products Industry, Chapter 11 of this document
+
