@@ -2,6 +2,7 @@
 Estimación de la emisión de contaminantes 
 
 ##Heavy Construction Operations
+
 Heavy construction is a source of dust emissions that may have substantial temporary impact
 on local air quality.   Building and road construction are 2 examples of construction activities with high
 emissions potential.   Emissions during the construction of a building or road can be associated with
